@@ -1,0 +1,17 @@
+{
+    "elements": {},
+    "attributes": {
+        "th:if": {
+            "context": "div"
+        },
+        "th:text": {},
+        "th:action": {
+            "context": "form"
+        },
+        "th:href": {},
+        "th:each": {
+            "context": "tbody"
+        },
+        "th:value": {}
+    }
+}
